@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-01T20:55:19 IST" name="Suite" finished-at="2023-05-01T20:56:27 IST" duration-ms="68665">
+    <groups>
+      <group name="RegressionSuite">
+        <method signature="CreateNewOrganisationTest.orgDemo()[pri:0, instance:vTiger.OrganisationTests.CreateNewOrganisationTest@742ff096]" name="orgDemo" class="vTiger.OrganisationTests.CreateNewOrganisationTest"/>
+      </group> <!-- RegressionSuite -->
+    </groups>
+    <test started-at="2023-05-01T20:55:19 IST" name="Test" finished-at="2023-05-01T20:56:27 IST" duration-ms="68665">
+      <class name="vTiger.OrganisationTests.CreateNewOrganisationTest">
+        <test-method is-config="true" signature="bsConfig()[pri:0, instance:vTiger.OrganisationTests.CreateNewOrganisationTest@742ff096]" started-at="2023-05-01T20:55:19 IST" name="bsConfig" finished-at="2023-05-01T20:55:19 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsConfig -->
+        <test-method is-config="true" signature="bcConfig()[pri:0, instance:vTiger.OrganisationTests.CreateNewOrganisationTest@742ff096]" started-at="2023-05-01T20:55:19 IST" name="bcConfig" finished-at="2023-05-01T20:56:17 IST" duration-ms="57531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bcConfig -->
+        <test-method is-config="true" signature="bmConfig()[pri:0, instance:vTiger.OrganisationTests.CreateNewOrganisationTest@742ff096]" started-at="2023-05-01T20:56:17 IST" name="bmConfig" finished-at="2023-05-01T20:56:27 IST" duration-ms="9584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmConfig -->
+        <test-method signature="orgDemo()[pri:0, instance:vTiger.OrganisationTests.CreateNewOrganisationTest@742ff096]" started-at="2023-05-01T20:56:27 IST" name="orgDemo" finished-at="2023-05-01T20:56:27 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orgDemo -->
+        <test-method is-config="true" signature="acConfig()[pri:0, instance:vTiger.OrganisationTests.CreateNewOrganisationTest@742ff096]" started-at="2023-05-01T20:56:27 IST" name="acConfig" finished-at="2023-05-01T20:56:27 IST" duration-ms="865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acConfig -->
+        <test-method is-config="true" signature="asConfig()[pri:0, instance:vTiger.OrganisationTests.CreateNewOrganisationTest@742ff096]" started-at="2023-05-01T20:56:30 IST" name="asConfig" finished-at="2023-05-01T20:56:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asConfig -->
+      </class> <!-- vTiger.OrganisationTests.CreateNewOrganisationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
